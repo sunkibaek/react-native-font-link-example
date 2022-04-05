@@ -1,11 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
 import React from 'react';
 import type {Node} from 'react';
 import {
@@ -96,6 +88,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24,
   },
   sectionTitle: {
+    fontFamily: 'RubikMicrobe-Regular',
     fontSize: 24,
     fontWeight: '600',
   },
